@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Embedded%20%26%20IoT%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=40" />
 </div>
 
-# Hi there, I'm Amrou Ben Lamine 👋
+# Hi there, I'm Amrou Ben Lamine 
 
-### 🤖 Industrial IT & Automation Student @ INSAT
+### Industrial IT & Automation Student @ INSAT
 I am a passionate **Embedded Systems and IoT enthusiast**, specializing in bridging the gap between hardware and software. I enjoy building smart systems, optimizing low-level code, and exploring industrial automation.
 
 ---
 
-### 🚀 Technical Skills
+### Technical Skills
 
 **Languages & Core Development**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -22,9 +22,9 @@ I am a passionate **Embedded Systems and IoT enthusiast**, specializing in bridg
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 **Interests**
-- 📶 **IoT:** MQTT, LoRaWAN, and Wireless Sensor Networks.
-- ⚙️ **Automation:** PLC programming and Industrial Control Systems.
-- 💻 **Embedded:** RTOS (FreeRTOS), Bare-metal, and Firmware Development.
+- 📶 **IoT:** 
+- ⚙️ **Automation:** 
+- 💻 **Embedded:**
 
 ---
 
