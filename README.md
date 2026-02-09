@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Embedded+%26+IoT+Engineer&animation=fadeIn&type=waving&color=gradient&height=100" alt="Embedded & IoT Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Embedded%20%26%20IoT%20Engineer&fontSize=60&animation=fadeIn" alt="Header" />
 </p>
 
 ## Hi, I’m Amrou Ben Lamine
@@ -13,21 +13,22 @@ Passionate about building smart systems and industrial solutions, I focus my wor
 
 ### Core
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="45" height="45"/>
 </p>
 
-#### Hardware & Tools
+### Hardware Focus
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/STMicroelectronics_logo.svg" alt="STM32" width="60" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Espressif_Systems_logo.svg" alt="ESP32" width="60" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=st,raspberrypi&theme=dark" alt="Hardware" height="45"/> 
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="45"/>
 </p>
 
 ### Interests
-Embedded Systems, Internet of Things (IoT), Industrial Automation, Real-Time Operating Systems (RTOS), Control Systems, Edge AI, Firmware Development.
+Embedded Systems, Internet of Things (IoT), Industrial Automation, Real-Time Operating Systems (RTOS), Control Systems, Robotics, Firmware Development.
 
 ---
 
@@ -35,3 +36,12 @@ Embedded Systems, Internet of Things (IoT), Industrial Automation, Real-Time Ope
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenLamineAmrou&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenLamineAmrou&theme=aura_dark)
+
+---
+
+### 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/amrou-ben-lamine-7170ba285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+</p>
