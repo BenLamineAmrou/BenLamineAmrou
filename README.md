@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amrou%20Ben%20Lamine&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%26%20IoT%20Engineer&descSize=25&descAlignY=60" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Amrou%20Ben%20Lamine&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%26%20IoT%20Engineer&descSize=25&descAlignY=55" alt="Header" />
+</div>
 
 <div align="center">
   <h3>  Industrial IT & Automation Student @ INSAT </h3>
