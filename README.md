@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Amrou%20Ben%20Lamine&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%26%20IoT%20Engineer&descSize=25&descAlignY=55" alt="Header" />
-</div>
-
-<div align="center">
   <h3>  Industrial IT & Automation Student @ INSAT </h3>
   <p>
     Passionate about building smart systems and industrial solutions, I focus my work on <b>Embedded Systems</b> and the <b>Internet of Things (IoT)</b>. I enjoy bridging the gap between hardware and software, from writing low-level firmware for microcontrollers to implementing complex industrial communication protocols.
