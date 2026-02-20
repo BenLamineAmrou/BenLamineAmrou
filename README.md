@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Amrou%20Ben%20Lamine&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20Automation%20Engineer&descAlignY=62&descSize=25" />
+</p>
+
 <div align="center">
   <h3>  Industrial IT & Automation Student @ INSAT </h3>
   <p>
